@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img_waterbottle{
+    width: 130px;
+}
+.result-content{
+    float: none;
+    padding: 5px;
+    margin: 0px;
+    background-color: lightgreen;
+    box-shadow: 5px 5px 5px darkseagreen ;
+   color: seagreen;
+}
